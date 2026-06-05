@@ -38,5 +38,5 @@ Aseguramiento de la calidad centrado en la consistencia de interfaz y lógica de
 
 ### 📨 ¡Conectemos!
 
-- **LinkedIn:** [www.linkedin.com/in/gustavo-posada-vj]
+- **LinkedIn:** [www.linkedin.com/in/gustavo-posada-qa]
 - **Correo Electrónico:** tavoposadavj@gmail.com
